@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HarryPotterCharacters</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="name">Personaje</string>
+    <string name="House">Casa de magia</string>
+    <string name="Interprete">Nombre de actor</string>
+    <string name="title_characters_list">Personajes</string>
+    <string name="content_descripcion">Character picture</string>
+</resources>
